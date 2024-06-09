@@ -29,8 +29,8 @@ public class ExercicioFor2 {
 
 		}
 
-		System.out.println("Quantidade de números pares:" + totalPar);
-		System.out.println("Quantidade de números ímpares" + totalImpar);
+		System.out.println("Quantidade de números pares: " + totalPar);
+		System.out.println("Quantidade de números ímpares: " + totalImpar);
 
 		sc.close();
 
